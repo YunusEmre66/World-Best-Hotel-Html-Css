@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: chartreuse;
+    padding: 15px;
+    display: flex;
+    align-items: stretch;
+
+    justify-content: center;
+    /* justify-content: start; */
+    /* justify-content: content; */
+    /* justify-content:space-evenly; */
+
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+
+   
+
+}
+.item {
+    background-color: brown;
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 2px ridge white;
+}

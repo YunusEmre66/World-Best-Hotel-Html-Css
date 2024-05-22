@@ -1,0 +1,16 @@
+div{
+    color: red;
+    background-color: black;
+    font-size: 35px;
+    text-align: center;
+
+}
+button{
+    background-color: aqua;
+    color: blue;
+    border: 3px solid salmon;
+    border-radius: 1px 8px 1px 8px;   
+}
+img{
+    width: 100%;
+}
